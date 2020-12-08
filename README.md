@@ -1,6 +1,8 @@
 # Psychological-career-rec-sys
 career and contents recommend system based on psychological test 
 
+# 개요
+
 비표준화 심리검사에 대해 직업 가치관, 흥미, 적성 검사결과를 지도학습 시킨다.
 
 성격유형 모델은 BIG5모델로 스마트폰 로그 데이터를 이용한 분류기로 검진한다.
