@@ -13,4 +13,6 @@ item2Vec와 context aware기반으로 커리어 맞춤형 컨텐츠들을 추천
 
 유저의 사용 로그를 RL을 통해 훈련시켜 개인에 맞게 튜닝되게끔 유도한다.
 
+# 기획안
+
 https://github.com/yjyjyjcho/yjyjyjcho/files/5660923/story.board.pptx
